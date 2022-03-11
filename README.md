@@ -12,5 +12,7 @@
         - Evaluation metrics
         - Hyperparameter tuning
         - NLP techniques like tf-idf, BOW, Word2Vec, tokenisation, stemming, lemmatization .
+        - Time Series techniques like AR, MA, ARMA, ARIMA, SARIMA
+        - Vizualisation tools and Dashboard Building using Tableau, SAP Analytics Cloud.
 
 - 💞️I am also learning the concepts of Deep learning. I am very much interested towards learning the new emerging technologies.
